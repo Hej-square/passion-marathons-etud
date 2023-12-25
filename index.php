@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="fr">
   <head>
-    <title>Passion Marathons</title>
+    <title>Passion Marathon</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
